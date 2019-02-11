@@ -9,8 +9,8 @@ Se debe agregar el complemento CORS en el navegador para intercambio entre los p
 
 2. Ejercicio
 Url de endpoints requeridos en la capa REST:
-1. Crear cuenta: POST, http://localhost:8000/api/cuentacorriente
-2. Eliminar cuenta: DELETE, http://localhost:8000/api/cuentacorriente
-3. Listar Cuentas: GET, http://localhost:8000/api/cuentacorriente
-4. Agregar Movimiento: POST, http://localhost:8000/api/movimiento
-5. Listar movimientos por cuenta (ordenados de forma decreciente por fecha): GET, http://localhost:8000/api/movimiento/{idCuenta}
+-  Crear cuenta: POST, http://localhost:8000/api/cuentacorriente
+- Eliminar cuenta: DELETE, http://localhost:8000/api/cuentacorriente
+- Listar Cuentas: GET, http://localhost:8000/api/cuentacorriente
+- Agregar Movimiento: POST, http://localhost:8000/api/movimiento
+- Listar movimientos por cuenta (ordenados de forma decreciente por fecha): GET, http://localhost:8000/api/movimiento/{idCuenta}
